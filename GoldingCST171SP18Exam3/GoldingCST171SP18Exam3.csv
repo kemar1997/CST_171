@@ -27,4 +27,4 @@ QuestionNumberKey,Term,MatchingDefinition
 26,"8-8. Roles","8-d. A set of related permissions"
 27,"8-9. Schema","8-k. Object ownership in a database."
 28,"8-10. Stored procedures","8-f. One or more SQL statements grouped to be executed together"
-29,"8-11. Views",NULL
+29,"8-11. Views","8-b. A stored query or filter that reflects a user's view of the data"
